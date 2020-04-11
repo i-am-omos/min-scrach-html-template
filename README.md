@@ -9,13 +9,14 @@ Scrach web development for HTML/CSS/JavaScript without frameworks.
 
 
 ## Directories
-index.html // your top level html
--assets    // in which you can store stylesheets, scripts, and images in each folder.
--- css     // for stylesheets
--- js      // for scripts
--- img     // for images
+{root_directory}/   // your document root  
+  index.html        // your top level html  
+  -assets/          // in which you can store stylesheets, scripts, and images in each folder.  
+    -- css/         // for stylesheets  
+    -- js/          // for scripts  
+    -- img/         // for images  
 
 
 
 ## License
-Unlicense
+  Unlicense
